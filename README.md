@@ -33,5 +33,6 @@ else:
 ```
 ## Output
 <img width="692" height="174" alt="image" src="https://github.com/user-attachments/assets/bde20c37-28fc-4161-9aaf-54c945e4168e" />
+
 ## Result
 Thus, the python program to check the number is prime or not and inspect for failures.
