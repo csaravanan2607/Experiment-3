@@ -1,4 +1,4 @@
-# Experiment-3
+# Experiment - 3
 ## PRIME NUMBER OR NOT
 
 # Aim: Write a python program to check the number is prime or not and inspect for failures. 
